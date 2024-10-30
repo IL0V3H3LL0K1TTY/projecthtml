@@ -1,2 +1,2 @@
 # projecthtml
-yup
+for my highschool coding course
